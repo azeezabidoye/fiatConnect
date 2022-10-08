@@ -8,7 +8,9 @@
 
 ```
 
+---
+
 `
-    const string = "John Smith;
+const string = "John Smith";
 
 `
