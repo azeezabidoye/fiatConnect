@@ -1,17 +1,14 @@
-    ```
+```
 
-{
-"firstName": "John",
-"lastName": "Smith",
-"age": 25
-}
+    {
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 25
+    }
 
 ```
 
-> where is my code
-
-> code ...
-
 `
-const string = "John Smith;
+    const string = "John Smith;
+
 `
