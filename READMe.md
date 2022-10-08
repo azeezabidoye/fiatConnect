@@ -10,7 +10,4 @@
 
 ---
 
-`
-const string = "John Smith";
-
-`
+`Loading...`
