@@ -11,3 +11,7 @@
 > where is my code
 
 > code ...
+
+`
+const string = "John Smith;
+`
