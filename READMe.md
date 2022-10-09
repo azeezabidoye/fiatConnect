@@ -1,4 +1,4 @@
-![Homepage](../fiatConnect/images/homepage.png)
+![Homepage](images/homepage.png)
 
 ```
 
