@@ -1,3 +1,5 @@
+![Homepage](../fiatConnect/images/homepage.png)
+
 ```
 
     {
